@@ -1,7 +1,5 @@
-# Lessons-Learned
-> Things I have learned at Bloc.io
+# Things I've learned at Bloc.io
 
 1. The command line
 2. Git and GitHub
-3. HTML/CSS
-4. Popular CSS Frameworks
+3. Basic HTML and CSS
